@@ -1,0 +1,21 @@
+{
+  "name": "xooooooox/db",
+  "type": "library",
+  "description": "php db",
+  "authors": [
+    {
+      "name": "xooooooox",
+      "email": "718337253@qq.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "xooooooox\\db\\": "./"
+    }
+  },
+  "suggest": {}
+}
